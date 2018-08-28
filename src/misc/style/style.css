@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body, #intro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#intro {
+    background: #ccc6;
+    height: 50vh;
+    width: 50vw;
+    border-radius: 30px; 
+}
+
+#intro a {
+    font-family: 'Short Stack', cursive;
+    font-size: 15vw;
+    color: black;
+    line-height: 15vw;
+    text-decoration: none;
+    margin: auto 30px;
+}
+
+#intro a:hover {
+    color: blue;
+}
+
+#playground, #intro {
+    margin: auto;
+    text-align: center;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+#playground td {
+    width: 30vw;
+    height: 30vh;
+    overflow: hidden;
+    white-space: nowrap;
+    border: 5px solid blue;
+    font-family: 'Short Stack', cursive;
+    font-size: 15vw;
+    color: blue;
+    line-height: 15vw;
+}
+
+#playground td:hover {
+    cursor: pointer;
+}
+
+#playground td.lock:hover {
+    cursor: default;
+}
+
+#playground tr td:first-child {
+    border-left: 5px solid transparent;
+}
+
+#playground tr td:last-child {
+    border-right: 5px solid transparent;
+}
+
+#playground tr:first-child td {
+    border-top: 5px solid transparent;
+}
+
+#playground tr:last-child td {
+    border-bottom: 5px solid transparent;
+}

@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "Alexandra Script";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Alexandra-Script/alexandra_script.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Montserrat/Montserrat-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../fonts/Montserrat/Montserrat-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/Font-Awesome/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(../fonts/Font-Awesome/fa-regular-400.woff2) format("woff2"), url(../fonts/Font-Awesome/fa-regular-400.woff) format("woff"), url(../fonts/Font-Awesome/fa-regular-400.ttf) format("truetype"), url(../fonts/Font-Awesome/fa-regular-400.svg#fontawesome) format("svg");
+}
+
+@font-face {
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: 900;
+    src: url(../fonts/Font-Awesome/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(../fonts/Font-Awesome/fa-solid-900.woff2) format("woff2"), url(../fonts/Font-Awesome/fa-solid-900.woff) format("woff"), url(../fonts/Font-Awesome/fa-solid-900.ttf) format("truetype"), url(../fonts/Font-Awesome/fa-solid-900.svg#fontawesome) format("svg");
+}
+
+@font-face {
+    font-family: "Font Awesome\ 5 Brands";
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/Font-Awesome/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(../fonts/Font-Awesome/fa-brands-400.woff2) format("woff2"), url(../fonts/Font-Awesome/fa-brands-400.woff) format("woff"), url(../fonts/Font-Awesome/fa-brands-400.ttf) format("truetype"), url(../fonts/Font-Awesome/fa-brands-400.svg#fontawesome) format("svg");
+}
+
+@font-face {
+    font-family: "Glyphicons Halflings";
+    src: url(../fonts/Glyphicons/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"), url(../fonts/Glyphicons/glyphicons-halflings-regular.woff2) format("woff2"), url(../fonts/Glyphicons/glyphicons-halflings-regular.woff) format("woff"), url(../fonts/Glyphicons/glyphicons-halflings-regular.ttf) format("truetype"), url(../fonts/Glyphicons/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg");
+}
+
+@font-face {
+    font-family: "Milasian Circa Medium";
+    src: url(../fonts/Milasian-Circa/MilasianCircaMediumPERSONAL.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Milasian Circa Bold";
+    src: url(../fonts/Milasian-Circa/MilasianCircaBoldPERSONAL.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Milasian Circa Thin";
+    src: url(../fonts/Milasian-Circa/MilasianCircaThinPERSONAL.ttf) format("truetype");
+}
